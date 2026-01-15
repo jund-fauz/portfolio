@@ -24,26 +24,26 @@ export function Projects() {
 			github: 'https://github.com/jund-fauz/nomor-surat',
 			live: 'https://nomor-surat.vercel.app',
 		},
-		{
-			title: 'Social Media Dashboard',
-			description:
-				'Analytics dashboard for tracking social media metrics across multiple platforms with data visualization.',
-			image:
-				'https://images.unsplash.com/photo-1609921212029-bb5a28e60960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBkZXNpZ258ZW58MXx8fHwxNzY3NDgyMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-			tech: ['React', 'Python', 'MongoDB', 'Chart.js'],
-			github: '#',
-			live: '#',
-		},
-		{
-			title: 'AI Content Generator',
-			description:
-				'AI-powered content creation tool leveraging machine learning models for automated text generation.',
-			image:
-				'https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MXx8fHwxNzY3NTU4NzI3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
-			tech: ['Vue.js', 'FastAPI', 'Redis', 'OpenAI'],
-			github: '#',
-			live: '#',
-		},
+		// {
+		// 	title: 'Social Media Dashboard',
+		// 	description:
+		// 		'Analytics dashboard for tracking social media metrics across multiple platforms with data visualization.',
+		// 	image:
+		// 		'https://images.unsplash.com/photo-1609921212029-bb5a28e60960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBhcHAlMjBkZXNpZ258ZW58MXx8fHwxNzY3NDgyMjY1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+		// 	tech: ['React', 'Python', 'MongoDB', 'Chart.js'],
+		// 	github: '#',
+		// 	live: '#',
+		// },
+		// {
+		// 	title: 'AI Content Generator',
+		// 	description:
+		// 		'AI-powered content creation tool leveraging machine learning models for automated text generation.',
+		// 	image:
+		// 		'https://images.unsplash.com/photo-1644088379091-d574269d422f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhYnN0cmFjdCUyMHRlY2hub2xvZ3l8ZW58MXx8fHwxNzY3NTU4NzI3fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral',
+		// 	tech: ['Vue.js', 'FastAPI', 'Redis', 'OpenAI'],
+		// 	github: '#',
+		// 	live: '#',
+		// },
 	]
 
 	return (
