@@ -1,4 +1,4 @@
-import { ArrowRight, Github, Linkedin, Mail } from 'lucide-react'
+import { ArrowRight, Github, Linkedin, Mail, Phone } from 'lucide-react'
 import { Button } from './ui/button'
 
 export function Hero() {
@@ -57,6 +57,14 @@ export function Hero() {
 						className='text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors'
 					>
 						<Mail className='w-6 h-6' />
+					</a>
+					<a
+						href='https://wa.me/6289507089856'
+						target='_blank'
+						rel='noopener noreferrer'
+						className='text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors'
+					>
+						<Phone className='w-6 h-6' />
 					</a>
 				</div>
 			</div>
