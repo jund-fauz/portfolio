@@ -5,9 +5,9 @@ export function Hero() {
 	return (
 		<section className='min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 to-slate-100 dark:from-slate-900 dark:to-slate-800 px-4 py-8'>
 			<div className='max-w-4xl mx-auto text-center flex flex-col items-center'>
-				<div className='mb-6 inline-block'>
+				<div className='mb-8 inline-block'>
 					<div className='w-32 h-32 mx-auto rounded-full bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center'>
-						<span className='text-5xl'>👨‍💻</span>
+						<img src='/foto_profil.png' alt='Foto Profil' />
 					</div>
 				</div>
 
